@@ -1,0 +1,13 @@
+# 忽略训练输出的 checkpoint 文件夹
+output/
+v3-*/
+checkpoint-*/
+
+# 忽略所有大模型权重文件
+*.safetensors
+*.pt
+*.bin
+*.pth
+
+# 忽略 Python 缓存
+__pycache__/
