@@ -1,6 +1,6 @@
 # NANA-SFT
 
-使用小松奈奈的 SFT 数据，为你的 OpenClaw 生成：
+使用小松奈奈的 SFT 数据，为 OpenClaw 生成：
 
 - **灵魂文件**：`SOUL.md`
 - **身份文件**：`IDENTITY.md`
@@ -20,3 +20,10 @@ claude --dangerously-skip-permissions
 
 请更新你的身份文件 ./openclaw/IDENTITY.md
 ```
+
+## 效果
+
+我用阿里云百炼部署的 GLM-5 模型，效果如下：
+
+- [SOUL.md](./openclaw/SOUL.md)
+- [IDENTITY.md](./openclaw/IDENTITY.md)
